@@ -1,0 +1,32 @@
+div.green{
+    margin: 10px;
+    padding: 10px;
+}
+#test{
+    border:5px black solid;
+    
+}
+.green
+{
+    background-color: green;
+}
+.big{
+    --primary-text-clr:var(--primary-text-clr)
+    font-size: large;
+    font-weight: 400;
+}
+
+
+div.blue{
+    background-color: blue;
+}
+.strong{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font:strong ;
+    var(--primary-text-clr )
+}
+div.yellowgreen{
+    background-color: yellowgreen;
+    font-weight: bold;
+    font-size: mediums;
+}
