@@ -1,0 +1,32 @@
+.Notification{
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    width: 250px;
+    height: 250px;
+    align-items: center;
+    position: relative;
+}
+.Notification-count{
+    background-color:brown;
+    border-radius: 70px;
+    margin: 5px;
+    margin-bottom:240px ;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.Fixed{
+    background-color:grey;
+    display: flex;
+    justify-content: center;
+    /*width: 250px;*/
+    height: 50px;
+    position: fixed;
+    align-items: center;
+    top: 0;
+}
+.scroll{
+    height: 100px;
+    background-color:aquamarine;
+}
