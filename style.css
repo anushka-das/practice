@@ -1,32 +1,26 @@
-div.green{
-    margin: 10px;
-    padding: 10px;
-}
 #test{
-    border:5px black solid;
-    
+   font-size: larger;
 }
 .green
 {
     background-color: green;
+    border:5px solid black;
+    margin: 10px;
+    padding: 10px;
+    width: 90px;
+    height: 30px;
+    border-style:inset;
 }
 .big{
-    --primary-text-clr:var(--primary-text-clr)
     font-size: large;
     font-weight: 400;
-}
-
-
-div.blue{
-    background-color: blue;
 }
 .strong{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font:strong ;
-    var(--primary-text-clr )
 }
-div.yellowgreen{
-    background-color: yellowgreen;
+div.yellow{
+    background-color: yellow;
     font-weight: bold;
     font-size: mediums;
 }
